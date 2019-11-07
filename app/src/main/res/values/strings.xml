@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="car_price">Car Price</string>
+    <string name="down_payment">Down Payment Amount</string>
+    <string name="loan_period">Loan Period (Year)</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="calculate">Calculate</string>
+    <string name="result1">Car Loan Result</string>
+    <string name="result2">Monthly Repayment Result</string>
+    <string name="result3">Interest Rate Result</string>
+</resources>
